@@ -5,7 +5,7 @@
 - https://github.com/WuFengXue/android-reverse
 - https://github.com/Juude/droidReverse
 - https://github.com/weixinbao/ReverseTool
-- https://github.com/alphaSeclab/awesome-reverse-engineering#11a59671b467a8cdbdd4ea9d5e5d9b51
+- https://github.com/alphaSeclab/awesome-reverse-engineering
 - https://github.com/HangZhouCat/ReaverAPKTools
 - https://github.com/JerryChenn07/AndroidReverseTool
 - https://github.com/changxiaokang/RE-Android
