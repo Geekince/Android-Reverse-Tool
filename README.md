@@ -12,6 +12,7 @@
 
 工具：
 
+- https://github.com/Efaker/FakerAndroid：将APK文件编译成项目
 - https://github.com/linchaolong/ApkToolPlus
 - https://github.com/vaibhavpandeyvpz/apkstudio
 - https://github.com/Konloch/bytecode-viewer
